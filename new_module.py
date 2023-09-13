@@ -37,4 +37,9 @@ def test_get_weather_data(mocker):
     # актеры - массив - объект [{'': ''}]
 
 
+ # cursor = db_connection.connection.cursor()
+    # cursor.execute('DELETE FROM employees')
+    #
+    # time.sleep(15)
+
 
